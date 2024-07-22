@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Techstarter
+- 🔭 I’m currently working at Student
 - 🌱 Ich lerne aktuell Webentwickling
 - 👯 I’m looking to collaborate on automated Testing
 - 🤔 I’m looking for help with Terraform deployment
