@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at Student
 - 🌱 Ich lerne aktuell Webentwickling
-- 👯 I’m looking to collaborate on automated Testing
+- 👯 Noch in der LehrnPhase
 - 🤔 I’m looking for help with Terraform deployment
 - 💬 Ask me about my
 - 📫 How to reach me: 
