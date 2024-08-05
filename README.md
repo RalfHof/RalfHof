@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">Hi there 👋<br><br>- 🔭 I’m currently working at Student<br>- 🌱 Ich lerne aktuell Webentwickling<br>- 👯 Noch in der LehrnPhase<br>- 📫 So erreichen sie mich Ralf-Hofmann82@outlook.de<br>-  Noch in der LehrnPhase<br>- ⚡ Fun fact: Motorradfahren<br>--></p>
+<p align="left">- 🔭 I’m currently working at Student<br>- 🌱 Ich lerne aktuell Webentwickling<br>- 👯 Noch in der LehrnPhase<br>- 📫 So erreichen sie mich Ralf-Hofmann82@outlook.de<br>-  Noch in der LehrnPhase<br>- ⚡ Fun fact: Motorradfahren<br>--></p>
 
 ###
 
@@ -34,6 +34,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RalfHof/count.svg?"  />
 </div>
 
 ###
